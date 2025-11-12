@@ -1,0 +1,104 @@
+
+AdaBoost SKLearn Decision Trees, Spambase data...
+
+Adaboost Spambase Accuracy: 0.941
+Top 10 features by margin: [40, 56, 47, 55, 45, 52, 51, 41, 24, 26]
+
+AdaBoost SKLearn Decision Trees, polluted Spambase data...
+
+Adaboost polluted Spambase Accuracy: 0.935
+
+Gaussian Naive Bayes, polluted Spambase data...
+
+Gaussian Naive Bayes polluted Spambase Accuracy: 0.603
+
+SKLearn PCA, polluted Spambase data...
+
+
+Gaussian Naive Bayes, SKLearn PCA reduced polluted Spambase data...
+
+Gaussian Naive Bayes polluted reduced Spambase Accuracy: 0.731
+
+My PCA, polluted Spambase data...
+
+(1057, 1057)
+(1057, 100)
+
+Gaussian Naive Bayes, my PCA reduced polluted Spambase data...
+
+Gaussian Naive Bayes, my PCA polluted reduced Spambase Accuracy: 0.735
+
+Bernoulli Naive Bayes, missing Spambase data...
+
+Bernoulli Naive Bayes, missing Spambase Accuracy: 0.808
+
+
+MNIST HAAR Feature Extraction...
+
+Downloading train-images-idx3-ubyte.gz...
+Downloading t10k-images-idx3-ubyte.gz...
+Downloading train-labels-idx1-ubyte.gz...
+Downloading t10k-labels-idx1-ubyte.gz...
+Download complete.
+Save complete.
+(60000,)
+(10000,)
+(60000, 784)
+(10000, 784)
+(60000, 200)
+(10000, 200)
+
+MNIST Data with HAAR features, ECOC, Adaboost with 200 estimators...
+
+Learning bit: 0
+Learning bit: 1
+Learning bit: 2
+Learning bit: 3
+Learning bit: 4
+Learning bit: 5
+Learning bit: 6
+Learning bit: 7
+Learning bit: 8
+Learning bit: 9
+Learning bit: 10
+Learning bit: 11
+Learning bit: 12
+Learning bit: 13
+Learning bit: 14
+Learning bit: 15
+Learning bit: 16
+Learning bit: 17
+Learning bit: 18
+Learning bit: 19
+Learning bit: 20
+Learning bit: 21
+Learning bit: 22
+Learning bit: 23
+Learning bit: 24
+Learning bit: 25
+Learning bit: 26
+Learning bit: 27
+Learning bit: 28
+Learning bit: 29
+Learning bit: 30
+Learning bit: 31
+Learning bit: 32
+Learning bit: 33
+Learning bit: 34
+Learning bit: 35
+Learning bit: 36
+Learning bit: 37
+Learning bit: 38
+Learning bit: 39
+Learning bit: 40
+Learning bit: 41
+Learning bit: 42
+Learning bit: 43
+Learning bit: 44
+Learning bit: 45
+Learning bit: 46
+Learning bit: 47
+Learning bit: 48
+Learning bit: 49
+Testing accuracy: 0.8719
+

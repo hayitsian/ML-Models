@@ -1,0 +1,12 @@
+Bagging SKLearn Decision Trees, Spambase data...
+
+Bagging Decision Trees, Spambase data, SKLearn ROC AUC:	0.967
+
+AdaBoost SKLearn Decision Trees, Spambase data...
+
+AdaBoost Decision Trees, Spambase data, SKLearn ROC AUC:	0.879
+
+Gradient Boosted SKLearn Decision Trees, Housing data...
+
+Training MSE: 6.953
+Testing MSE: 19.618

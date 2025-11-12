@@ -1,0 +1,407 @@
+AdaBoost SKLearn Decision Trees, Spambase data...
+
+Local round error for estimator 0: 0.207
+Training error for 0 estimators: 0.207
+Local round error for estimator 1: 0.228
+Training error for 1 estimators: 0.207
+Local round error for estimator 2: 0.295
+Training error for 2 estimators: 0.145
+Local round error for estimator 3: 0.275
+Training error for 3 estimators: 0.155
+Local round error for estimator 4: 0.343
+Training error for 4 estimators: 0.135
+Local round error for estimator 5: 0.330
+Training error for 5 estimators: 0.101
+Local round error for estimator 6: 0.349
+Training error for 6 estimators: 0.093
+Local round error for estimator 7: 0.412
+Training error for 7 estimators: 0.090
+Local round error for estimator 8: 0.381
+Training error for 8 estimators: 0.093
+Local round error for estimator 9: 0.413
+Training error for 9 estimators: 0.088
+AdaBoost Decision Trees, Spambase data, SKLearn ROC AUC:	0.971
+
+AdaBoost Decision Trees, Spambase data, best split...
+
+Local round error for estimator 0: 0.207
+Training error for 0 estimators: 0.207
+Testing error for 0 estimators: 0.215
+Testing AUC for 0 estimators: 0.699
+Local round error for estimator 1: 0.228
+Training error for 1 estimators: 0.207
+Testing error for 1 estimators: 0.215
+Testing AUC for 1 estimators: 0.715
+Local round error for estimator 2: 0.295
+Training error for 2 estimators: 0.145
+Testing error for 2 estimators: 0.155
+Testing AUC for 2 estimators: 0.849
+Local round error for estimator 3: 0.275
+Training error for 3 estimators: 0.155
+Testing error for 3 estimators: 0.170
+Testing AUC for 3 estimators: 0.923
+Local round error for estimator 4: 0.565
+Training error for 4 estimators: 0.146
+Testing error for 4 estimators: 0.154
+Testing AUC for 4 estimators: 0.885
+AdaBoost Decision Trees, Spambase data, best split ROC AUC:	0.885
+
+AdaBoost Decision Trees, Spambase data, random split...
+
+Local round error for estimator 0: 0.396
+Training error for 0 estimators: 0.396
+Testing error for 0 estimators: 0.385
+Testing AUC for 0 estimators: 0.500
+Local round error for estimator 1: 0.500
+Training error for 1 estimators: 0.396
+Testing error for 1 estimators: 0.385
+Testing AUC for 1 estimators: 0.500
+Local round error for estimator 2: 0.488
+Training error for 2 estimators: 0.396
+Testing error for 2 estimators: 0.385
+Testing AUC for 2 estimators: 0.506
+Local round error for estimator 3: 0.512
+Training error for 3 estimators: 0.396
+Testing error for 3 estimators: 0.385
+Testing AUC for 3 estimators: 0.500
+Local round error for estimator 4: 0.485
+Training error for 4 estimators: 0.396
+Testing error for 4 estimators: 0.385
+Testing AUC for 4 estimators: 0.520
+Local round error for estimator 5: 0.492
+Training error for 5 estimators: 0.396
+Testing error for 5 estimators: 0.385
+Testing AUC for 5 estimators: 0.520
+Local round error for estimator 6: 0.509
+Training error for 6 estimators: 0.396
+Testing error for 6 estimators: 0.385
+Testing AUC for 6 estimators: 0.525
+Local round error for estimator 7: 0.283
+Training error for 7 estimators: 0.288
+Testing error for 7 estimators: 0.281
+Testing AUC for 7 estimators: 0.397
+Local round error for estimator 8: 0.479
+Training error for 8 estimators: 0.288
+Testing error for 8 estimators: 0.281
+Testing AUC for 8 estimators: 0.648
+Local round error for estimator 9: 0.518
+Training error for 9 estimators: 0.288
+Testing error for 9 estimators: 0.281
+Testing AUC for 9 estimators: 0.606
+Local round error for estimator 10: 0.455
+Training error for 10 estimators: 0.288
+Testing error for 10 estimators: 0.281
+Testing AUC for 10 estimators: 0.663
+Local round error for estimator 11: 0.472
+Training error for 11 estimators: 0.288
+Testing error for 11 estimators: 0.281
+Testing AUC for 11 estimators: 0.661
+Local round error for estimator 12: 0.564
+Training error for 12 estimators: 0.288
+Testing error for 12 estimators: 0.281
+Testing AUC for 12 estimators: 0.762
+Local round error for estimator 13: 0.500
+Training error for 13 estimators: 0.288
+Testing error for 13 estimators: 0.281
+Testing AUC for 13 estimators: 0.762
+Local round error for estimator 14: 0.464
+Training error for 14 estimators: 0.288
+Testing error for 14 estimators: 0.281
+Testing AUC for 14 estimators: 0.610
+Local round error for estimator 15: 0.533
+Training error for 15 estimators: 0.288
+Testing error for 15 estimators: 0.281
+Testing AUC for 15 estimators: 0.758
+Local round error for estimator 16: 0.500
+Training error for 16 estimators: 0.288
+Testing error for 16 estimators: 0.281
+Testing AUC for 16 estimators: 0.758
+Local round error for estimator 17: 0.500
+Training error for 17 estimators: 0.288
+Testing error for 17 estimators: 0.281
+Testing AUC for 17 estimators: 0.758
+Local round error for estimator 18: 0.500
+Training error for 18 estimators: 0.288
+Testing error for 18 estimators: 0.281
+Testing AUC for 18 estimators: 0.758
+Local round error for estimator 19: 0.500
+Training error for 19 estimators: 0.288
+Testing error for 19 estimators: 0.281
+Testing AUC for 19 estimators: 0.758
+Local round error for estimator 20: 0.500
+Training error for 20 estimators: 0.288
+Testing error for 20 estimators: 0.281
+Testing AUC for 20 estimators: 0.758
+Local round error for estimator 21: 0.468
+Training error for 21 estimators: 0.288
+Testing error for 21 estimators: 0.281
+Testing AUC for 21 estimators: 0.719
+Local round error for estimator 22: 0.522
+Training error for 22 estimators: 0.288
+Testing error for 22 estimators: 0.281
+Testing AUC for 22 estimators: 0.749
+Local round error for estimator 23: 0.510
+Training error for 23 estimators: 0.288
+Testing error for 23 estimators: 0.281
+Testing AUC for 23 estimators: 0.749
+Local round error for estimator 24: 0.500
+Training error for 24 estimators: 0.288
+Testing error for 24 estimators: 0.281
+Testing AUC for 24 estimators: 0.749
+Local round error for estimator 25: 0.482
+Training error for 25 estimators: 0.288
+Testing error for 25 estimators: 0.281
+Testing AUC for 25 estimators: 0.802
+Local round error for estimator 26: 0.518
+Training error for 26 estimators: 0.288
+Testing error for 26 estimators: 0.281
+Testing AUC for 26 estimators: 0.744
+Local round error for estimator 27: 0.500
+Training error for 27 estimators: 0.288
+Testing error for 27 estimators: 0.281
+Testing AUC for 27 estimators: 0.744
+Local round error for estimator 28: 0.500
+Training error for 28 estimators: 0.288
+Testing error for 28 estimators: 0.281
+Testing AUC for 28 estimators: 0.744
+Local round error for estimator 29: 0.379
+Training error for 29 estimators: 0.232
+Testing error for 29 estimators: 0.207
+Testing AUC for 29 estimators: 0.675
+Local round error for estimator 30: 0.397
+Training error for 30 estimators: 0.256
+Testing error for 30 estimators: 0.228
+Testing AUC for 30 estimators: 0.838
+Local round error for estimator 31: 0.631
+Training error for 31 estimators: 0.287
+Testing error for 31 estimators: 0.276
+Testing AUC for 31 estimators: 0.840
+Local round error for estimator 32: 0.500
+Training error for 32 estimators: 0.287
+Testing error for 32 estimators: 0.276
+Testing AUC for 32 estimators: 0.840
+Local round error for estimator 33: 0.500
+Training error for 33 estimators: 0.287
+Testing error for 33 estimators: 0.276
+Testing AUC for 33 estimators: 0.840
+Local round error for estimator 34: 0.320
+Training error for 34 estimators: 0.194
+Testing error for 34 estimators: 0.174
+Testing AUC for 34 estimators: 0.885
+Local round error for estimator 35: 0.610
+Training error for 35 estimators: 0.183
+Testing error for 35 estimators: 0.173
+Testing AUC for 35 estimators: 0.829
+Local round error for estimator 36: 0.443
+Training error for 36 estimators: 0.179
+Testing error for 36 estimators: 0.166
+Testing AUC for 36 estimators: 0.856
+Local round error for estimator 37: 0.525
+Training error for 37 estimators: 0.208
+Testing error for 37 estimators: 0.202
+Testing AUC for 37 estimators: 0.777
+Local round error for estimator 38: 0.500
+Training error for 38 estimators: 0.208
+Testing error for 38 estimators: 0.202
+Testing AUC for 38 estimators: 0.777
+Local round error for estimator 39: 0.500
+Training error for 39 estimators: 0.208
+Testing error for 39 estimators: 0.202
+Testing AUC for 39 estimators: 0.777
+Local round error for estimator 40: 0.500
+Training error for 40 estimators: 0.208
+Testing error for 40 estimators: 0.202
+Testing AUC for 40 estimators: 0.777
+Local round error for estimator 41: 0.455
+Training error for 41 estimators: 0.201
+Testing error for 41 estimators: 0.202
+Testing AUC for 41 estimators: 0.878
+Local round error for estimator 42: 0.482
+Training error for 42 estimators: 0.202
+Testing error for 42 estimators: 0.203
+Testing AUC for 42 estimators: 0.706
+Local round error for estimator 43: 0.489
+Training error for 43 estimators: 0.203
+Testing error for 43 estimators: 0.201
+Testing AUC for 43 estimators: 0.730
+Local round error for estimator 44: 0.510
+Training error for 44 estimators: 0.202
+Testing error for 44 estimators: 0.202
+Testing AUC for 44 estimators: 0.707
+Local round error for estimator 45: 0.353
+Training error for 45 estimators: 0.155
+Testing error for 45 estimators: 0.161
+Testing AUC for 45 estimators: 0.893
+Local round error for estimator 46: 0.599
+Training error for 46 estimators: 0.153
+Testing error for 46 estimators: 0.154
+Testing AUC for 46 estimators: 0.883
+Local round error for estimator 47: 0.500
+Training error for 47 estimators: 0.153
+Testing error for 47 estimators: 0.154
+Testing AUC for 47 estimators: 0.883
+Local round error for estimator 48: 0.500
+Training error for 48 estimators: 0.153
+Testing error for 48 estimators: 0.154
+Testing AUC for 48 estimators: 0.883
+Local round error for estimator 49: 0.500
+Training error for 49 estimators: 0.153
+Testing error for 49 estimators: 0.154
+Testing AUC for 49 estimators: 0.883
+AdaBoost Decision Trees, Spambase data, random split ROC AUC:	0.883
+
+AdaBoost Decision Trees, CRX data, best split...
+
+Local round error for estimator 0: 0.139
+Training error for 0 estimators: 0.139
+Testing error for 0 estimators: 0.167
+Testing AUC for 0 estimators: 0.693
+Local round error for estimator 1: 0.270
+Training error for 1 estimators: 0.139
+Testing error for 1 estimators: 0.167
+Testing AUC for 1 estimators: 0.783
+Local round error for estimator 2: 0.413
+Training error for 2 estimators: 0.139
+Testing error for 2 estimators: 0.167
+Testing AUC for 2 estimators: 0.774
+Local round error for estimator 3: 0.425
+Training error for 3 estimators: 0.139
+Testing error for 3 estimators: 0.167
+Testing AUC for 3 estimators: 0.817
+Local round error for estimator 4: 0.530
+Training error for 4 estimators: 0.139
+Testing error for 4 estimators: 0.167
+Testing AUC for 4 estimators: 0.818
+
+AdaBoost Decision Trees, VOTE data, best split...
+
+Local round error for estimator 0: 0.040
+Training error for 0 estimators: 0.040
+Testing error for 0 estimators: 0.057
+Testing AUC for 0 estimators: 0.875
+Local round error for estimator 1: 0.383
+Training error for 1 estimators: 0.040
+Testing error for 1 estimators: 0.057
+Testing AUC for 1 estimators: 0.860
+Local round error for estimator 2: 0.500
+Training error for 2 estimators: 0.040
+Testing error for 2 estimators: 0.057
+Testing AUC for 2 estimators: 0.860
+Local round error for estimator 3: 0.500
+Training error for 3 estimators: 0.040
+Testing error for 3 estimators: 0.057
+Testing AUC for 3 estimators: 0.860
+Local round error for estimator 4: 0.500
+Training error for 4 estimators: 0.040
+Testing error for 4 estimators: 0.057
+Testing AUC for 4 estimators: 0.860
+
+AdaBoost Decision Trees, Spambase data, random learning...
+
+Test error for 5% data: 0.213
+Test error for 10% data: 0.206
+Test error for 15% data: 0.189
+Test error for 20% data: 0.471
+Test error for 25% data: 0.484
+Test error for 30% data: 0.622
+Test error for 35% data: 0.622
+Test error for 40% data: 0.622
+Test error for 44% data: 0.622
+Test error for 49% data: 0.622
+Test error for 54% data: 0.622
+
+AdaBoost Decision Trees, Spambase data, active learning...
+
+Test error for 5% data: 0.190
+Test error for 10% data: 0.199
+Test error for 15% data: 0.180
+Test error for 20% data: 0.189
+Test error for 25% data: 0.362
+Test error for 30% data: 0.360
+Test error for 35% data: 0.438
+Test error for 40% data: 0.417
+Test error for 44% data: 0.392
+Test error for 49% data: 0.318
+Test error for 54% data: 0.312
+
+AdaBoost Decision Trees, CRX data, active learning...
+
+Test error for 5% data: 0.152
+Test error for 10% data: 0.145
+Test error for 15% data: 0.145
+Test error for 20% data: 0.145
+Test error for 25% data: 0.138
+Test error for 30% data: 0.159
+Test error for 35% data: 0.138
+Test error for 40% data: 0.138
+Test error for 44% data: 0.138
+Test error for 49% data: 0.138
+Test error for 54% data: 0.138
+
+AdaBoost Decision Trees, CRX data, random learning...
+
+Test error for 5% data: 0.203
+Test error for 10% data: 0.130
+Test error for 15% data: 0.130
+Test error for 20% data: 0.145
+Test error for 25% data: 0.138
+Test error for 30% data: 0.138
+Test error for 35% data: 0.152
+Test error for 40% data: 0.145
+Test error for 44% data: 0.130
+Test error for 49% data: 0.130
+Test error for 54% data: 0.130
+
+AdaBoost Decision Trees, VOTE data, active learning...
+
+Test error for 5% data: 0.057
+Test error for 10% data: 0.057
+Test error for 15% data: 0.046
+Test error for 20% data: 0.046
+Test error for 25% data: 0.046
+Test error for 30% data: 0.046
+Test error for 35% data: 0.046
+Test error for 40% data: 0.046
+Test error for 44% data: 0.046
+Test error for 49% data: 0.046
+Test error for 54% data: 0.046
+
+AdaBoost Decision Trees, VOTE data, random learning...
+
+Test error for 5% data: 0.264
+Test error for 10% data: 0.115
+Test error for 15% data: 0.115
+Test error for 20% data: 0.057
+Test error for 25% data: 0.080
+Test error for 30% data: 0.069
+Test error for 35% data: 0.057
+Test error for 40% data: 0.057
+Test error for 44% data: 0.046
+Test error for 49% data: 0.046
+Test error for 54% data: 0.046
+
+
+20(8) Newsgroups Data, ECOC, Adaboost with 50 estimators...
+
+Learning bit: 0
+Learning bit: 1
+Learning bit: 2
+Learning bit: 3
+Learning bit: 4
+Learning bit: 5
+Learning bit: 6
+Learning bit: 7
+Learning bit: 8
+Learning bit: 9
+Learning bit: 10
+Learning bit: 11
+Learning bit: 12
+Learning bit: 13
+Learning bit: 14
+Learning bit: 15
+Learning bit: 16
+Learning bit: 17
+Learning bit: 18
+Learning bit: 19
+Testing accuracy: 0.784784917684546
+

@@ -1,0 +1,76 @@
+Training ML2 FFNN Implementation: Autoencoder...
+
+Iteration: 0  Error: 0.11100601155947123
+Iteration: 200  Error: 0.04244978760239193
+Iteration: 400  Error: 0.0180146785205618
+Iteration: 600  Error: 0.0078183622989018
+Iteration: 800  Error: 0.004074086148628647
+Iteration: 1000  Error: 0.002732383116569164
+Iteration: 1200  Error: 0.002045460756260581
+Iteration: 1400  Error: 0.001627964721212581
+Iteration: 1600  Error: 0.0013480154434411813
+Iteration: 1800  Error: 0.0011477134118000555
+[[1 0 0 0 0 0 0 0]
+ [0 1 0 0 0 0 0 0]
+ [0 0 1 0 0 0 0 0]
+ [0 0 0 1 0 0 0 0]
+ [0 0 0 0 1 0 0 0]
+ [0 0 0 0 0 1 0 0]
+ [0 0 0 0 0 0 1 0]
+ [0 0 0 0 0 0 0 1]]
+
+ Training PyTorch FFNN Implementation: Autoencoder...
+
+Iteration: 0  Error: 0.2308982014656067
+Iteration: 20000  Error: 0.10505399107933044
+Iteration: 40000  Error: 0.09011585265398026
+Iteration: 60000  Error: 0.07004155218601227
+Iteration: 80000  Error: 0.05132750794291496
+Iteration: 100000  Error: 0.03913554549217224
+Iteration: 120000  Error: 0.031287550926208496
+Iteration: 140000  Error: 0.025640346109867096
+Iteration: 160000  Error: 0.021360749378800392
+Iteration: 180000  Error: 0.017384475097060204
+[[1 0 0 0 0 0 0 0]
+ [0 1 0 0 0 0 0 0]
+ [0 0 1 0 0 0 0 0]
+ [0 0 0 1 0 0 0 0]
+ [0 0 0 0 1 0 0 0]
+ [0 0 0 0 0 1 0 0]
+ [0 0 0 0 0 0 1 0]
+ [0 0 0 0 0 0 0 1]]
+
+Training PyTorch Implementation: Wine Data...
+
+Iteration: 0  Error: 0.2653943598270416
+Iteration: 1000  Error: 0.04779742285609245
+Iteration: 2000  Error: 0.020728664472699165
+Iteration: 3000  Error: 0.013568189926445484
+Iteration: 4000  Error: 0.010213332250714302
+Iteration: 5000  Error: 0.00823015347123146
+Iteration: 6000  Error: 0.006889930460602045
+Iteration: 7000  Error: 0.005898827686905861
+Iteration: 8000  Error: 0.005122633650898933
+Iteration: 9000  Error: 0.00449635274708271
+
+Training ML2 FFNN Implementation: Wine Data...
+
+Iteration: 0  Error: 0.13708275661942956
+Iteration: 1000  Error: 3.530822122372438e-05
+Iteration: 2000  Error: 1.5397614349889444e-05
+Iteration: 3000  Error: 9.595169387096923e-06
+Iteration: 4000  Error: 6.892372888829157e-06
+Iteration: 5000  Error: 5.345139056268206e-06
+Iteration: 6000  Error: 4.348734544723024e-06
+Iteration: 7000  Error: 3.656040286715169e-06
+Iteration: 8000  Error: 3.1478690245287292e-06
+Iteration: 9000  Error: 2.759883943993384e-06
+
+Testing PyTorch Implementation: Wine Data...
+
+Error: 0.004247783883717386
+
+
+Testing ML2 FFNN Implementation: Wine Data...
+
+Error: 0.00510598670386639

@@ -1,0 +1,82 @@
+Ian Hay - DS4420 HW3 Metrics - 2023-03-01
+
+Spambase Dataset, GDA 10-Fold CV Accuracy:	0.904
+
+Based on this accuracy (>0.9), the Gaussian assumption of normally distributed data
+appears to hold for the Spambase dataset.
+
+
+             TP       TN      FP     FN
+0         [107]    [101]    [42]    [2]
+1          [93]    [109]    [43]    [3]
+2          [87]    [108]    [40]    [4]
+3          [90]    [113]    [48]    [3]
+4         [114]    [102]    [40]    [4]
+5          [91]    [112]    [28]    [5]
+6         [111]     [97]    [47]    [7]
+7          [92]    [115]    [44]    [4]
+8          [94]    [103]    [30]    [3]
+9          [97]    [113]    [37]    [4]
+Average  [97.6]  [107.3]  [39.9]  [3.9]
+Spambase Dataset, Gaussian NB 10-Fold CV Accuracy:	0.824
+Spambase Dataset, Gaussian Naive Bayes ROC AUC:	0.928
+
+
+             TP       TN      FP     FN
+0          [80]    [114]    [32]    [6]
+1          [83]    [111]    [38]    [2]
+2          [86]    [113]    [34]    [4]
+3          [97]    [109]    [29]    [1]
+4         [107]    [108]    [40]    [2]
+5          [90]    [118]    [29]    [3]
+6          [81]    [109]    [32]    [2]
+7         [103]    [112]    [28]    [5]
+8         [105]    [112]    [48]    [8]
+9         [100]    [123]    [39]    [3]
+Average  [93.2]  [112.9]  [34.9]  [3.6]
+Spambase Dataset, Bernoulli NB 10-Fold CV Accuracy:	0.843
+Spambase Dataset, Bernoulli Naive Bayes ROC AUC:	0.956
+
+SKLearn GDA Implementation Acc: 0.889
+SKLearn Gaussian NB Implementation Acc: 0.823
+SKLearn Bernoulli NB Implementation Acc: 0.886
+
+2gaussians.txt: 
+Pi = [.33, .66] 
+Mu = [[3, 3] [7, 4]]
+Cov = [[1,0], [0,3]] [[1,0.5], [0.5, 1]]
+
+Pi: [[0.66520426]
+ [0.33479574]]
+ Mu: [array([7.0131482 , 3.98313417]), array([2.99413171, 3.05209656])]
+ Cov: [array([[0.97476019, 0.49747036],
+       [0.49747036, 1.00114364]]), array([[1.01023519, 0.02719129],
+       [0.02719129, 2.93782404]])]
+
+
+3gaussians.txt: 
+Pi = [.2, .3, .5] 
+Mu = [[3, 3] [7, 4] [5, 7]]
+Cov = [[1,0], [0,3]] [[1,0.5], [0.5,1]] [[1,0.2], [0.2,1]]
+
+Pi: [[0.49619972]
+ [0.20533224]
+ [0.29846804]]
+ MU: [array([5.01116448, 7.00097033]), array([3.03855571, 3.04526036]), array([7.02131893, 4.0153298 ])]
+ Cov: [array([[0.98040278, 0.18559003],
+       [0.18559003, 0.97521795]]), array([[1.02762635, 0.02470947],
+       [0.02470947, 3.37819339]]), array([[0.99082549, 0.5011178 ],
+       [0.5011178 , 0.99566848]])]
+
+
+Binomial:
+
+True Pi: [0.8 0.2]
+ True Q: [0.75 0.4 ]
+Pi: [0.19047854 0.80952146]
+ Q: [0.39133718 0.75098524]
+
+True Pi: [0.6 0.4]
+ True Q: [0.6  0.75]
+Pi: [0.40207678 0.59792322]
+ Q: [0.56685106 0.72380924]

@@ -1,0 +1,6 @@
+Housing Dataset, Linear Regression, Training Data MSE: 22.08128583837144
+Housing Dataset, Linear Regression, Testing Data MSE: 25.45404875982573
+Housing Dataset, Decision Tree, Training data MSE: 37.44914549653579
+Housing Dataset, Decision Tree, Testing data MSE: 28.19743243243243
+Spambase Dataset, Linear Regression, 10-Fold CV Accuracy: 0.8843690464962746
+Spambase Dataset, Decision Tree, 10-Fold CV Accuracy: 0.8661114778836179

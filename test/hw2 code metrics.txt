@@ -1,0 +1,125 @@
+Perceptron Training...
+
+Iteration 1, # Misclassified: 477
+Iteration 2, # Misclassified: 523
+Iteration 3, # Misclassified: 492
+Iteration 4, # Misclassified: 477
+Iteration 5, # Misclassified: 519
+Iteration 6, # Misclassified: 477
+Iteration 7, # Misclassified: 516
+Iteration 8, # Misclassified: 477
+Iteration 9, # Misclassified: 515
+Iteration 10, # Misclassified: 477
+Iteration 11, # Misclassified: 514
+Iteration 12, # Misclassified: 436
+Iteration 13, # Misclassified: 498
+Iteration 14, # Misclassified: 365
+Iteration 15, # Misclassified: 439
+Iteration 16, # Misclassified: 364
+Iteration 17, # Misclassified: 407
+Iteration 18, # Misclassified: 313
+Iteration 19, # Misclassified: 346
+Iteration 20, # Misclassified: 278
+Iteration 21, # Misclassified: 307
+Iteration 22, # Misclassified: 259
+Iteration 23, # Misclassified: 277
+Iteration 24, # Misclassified: 225
+Iteration 25, # Misclassified: 232
+Iteration 26, # Misclassified: 177
+Iteration 27, # Misclassified: 187
+Iteration 28, # Misclassified: 160
+Iteration 29, # Misclassified: 169
+Iteration 30, # Misclassified: 144
+Iteration 31, # Misclassified: 147
+Iteration 32, # Misclassified: 119
+Iteration 33, # Misclassified: 116
+Iteration 34, # Misclassified: 90
+Iteration 35, # Misclassified: 85
+Iteration 36, # Misclassified: 64
+Iteration 37, # Misclassified: 45
+Iteration 38, # Misclassified: 21
+Iteration 39, # Misclassified: 16
+Iteration 40, # Misclassified: 14
+Iteration 41, # Misclassified: 12
+Iteration 42, # Misclassified: 12
+Iteration 43, # Misclassified: 11
+Iteration 44, # Misclassified: 10
+Iteration 45, # Misclassified: 9
+Iteration 46, # Misclassified: 9
+Iteration 47, # Misclassified: 9
+Iteration 48, # Misclassified: 8
+Iteration 49, # Misclassified: 8
+Iteration 50, # Misclassified: 7
+Iteration 51, # Misclassified: 6
+Iteration 52, # Misclassified: 6
+Iteration 53, # Misclassified: 6
+Iteration 54, # Misclassified: 5
+Iteration 55, # Misclassified: 5
+Iteration 56, # Misclassified: 3
+Iteration 57, # Misclassified: 2
+Iteration 58, # Misclassified: 3
+Iteration 59, # Misclassified: 2
+Iteration 60, # Misclassified: 2
+Iteration 61, # Misclassified: 2
+Iteration 62, # Misclassified: 2
+Iteration 63, # Misclassified: 2
+Iteration 64, # Misclassified: 3
+Iteration 65, # Misclassified: 2
+Iteration 66, # Misclassified: 2
+Iteration 67, # Misclassified: 2
+Iteration 68, # Misclassified: 2
+Iteration 69, # Misclassified: 2
+Iteration 70, # Misclassified: 3
+Iteration 71, # Misclassified: 2
+Iteration 72, # Misclassified: 2
+Iteration 73, # Misclassified: 2
+Iteration 74, # Misclassified: 2
+Iteration 75, # Misclassified: 2
+Iteration 76, # Misclassified: 2
+Iteration 77, # Misclassified: 2
+Iteration 78, # Misclassified: 2
+Iteration 79, # Misclassified: 2
+Iteration 80, # Misclassified: 2
+Iteration 81, # Misclassified: 1
+Iteration 82, # Misclassified: 2
+Iteration 83, # Misclassified: 2
+Iteration 84, # Misclassified: 1
+Iteration 85, # Misclassified: 1
+Iteration 86, # Misclassified: 1
+Iteration 87, # Misclassified: 1
+Iteration 88, # Misclassified: 1
+Iteration 89, # Misclassified: 0
+
+Classifier weights: -967 [154.32128527 390.1363427  588.92441869 795.07747957]
+Normalized weights: [0.15958768 0.4034502  0.60902215 0.82221042]
+
+Housing Dataset, Decision Tree (Bucketizing), Training data MSE:			25.155
+Housing Dataset, Decision Tree (Bucketizing), Testing data MSE:			22.513
+Housing Dataset, Regression Tree, Training data MSE:				66.670
+Housing Dataset, Regression Tree, Testing data MSE:				62.742
+Housing Dataset, Linear Regression (Normal Equations), Training Data MSE:		22.081
+Housing Dataset, Linear Regression (Normal Equations), Testing Data MSE:		22.638
+Housing Dataset, Linear Ridge Regression (Normal Equations), Training Data MSE:	22.082
+Housing Dataset, Linear Ridge Regression (Normal Equations), Testing Data MSE:	22.603
+Housing Dataset, Linear Regression (Gradient Descent), Training Data MSE:		23.853
+Housing Dataset, Linear Regression (Gradient Descent), Testing Data MSE:		22.145
+
+
+Logistic Regression, Gradient Descent ROC AUC: 0.923
+Linear Regression, Normal Equations ROC AUC: 0.944
+Linear Regression, Gradient Descent ROC AUC: 0.934
+
+
+Spambase Dataset, Decision Tree, 10-Fold CV Accuracy:				0.852
+True Positive: 692	False Positive: 190
+False Negative: 105	True Negative: 1003
+
+Spambase Dataset, Linear Regression (Normal Equations) 10-Fold CV Accuracy:		0.882
+Spambase Dataset, Linear Ridge Regression (Normal Equations), 10-Fold CV Accuracy:	0.882
+Spambase Dataset, Linear Regression (Gradient Descent), 10-Fold CV Accuracy:		0.860
+True Positive: 472	False Positive: 80
+False Negative: 141	True Negative: 888
+
+Spambase Dataset, Logistic Regression (Gradient Descent), 10-Fold CV Accuracy:	0.897
+True Positive: 640	False Positive: 87
+False Negative: 96	True Negative: 948

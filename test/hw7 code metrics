@@ -1,0 +1,87 @@
+Kernel Density Estimation, Spambase data
+Accuracy: 0.911
+
+Dual perceptron, dot product kernel, linear data
+Iteration 1, # Misclassified: 1000
+Iteration 2, # Misclassified: 18
+Iteration 3, # Misclassified: 7
+Iteration 4, # Misclassified: 7
+Iteration 5, # Misclassified: 5
+Iteration 6, # Misclassified: 4
+Iteration 7, # Misclassified: 3
+Iteration 8, # Misclassified: 0
+
+Dual perceptron, dot product kernel, spiral data
+Iteration 1, # Misclassified: 1000
+Iteration 2, # Misclassified: 340
+Iteration 3, # Misclassified: 330
+Iteration 4, # Misclassified: 661
+Iteration 5, # Misclassified: 341
+Iteration 6, # Misclassified: 338
+Iteration 7, # Misclassified: 347
+Iteration 8, # Misclassified: 608
+Iteration 9, # Misclassified: 341
+Iteration 10, # Misclassified: 333
+Iteration 11, # Misclassified: 659
+Iteration 12, # Misclassified: 342
+Iteration 13, # Misclassified: 340
+Iteration 14, # Misclassified: 337
+Iteration 15, # Misclassified: 664
+Iteration 16, # Misclassified: 339
+Iteration 17, # Misclassified: 329
+Iteration 18, # Misclassified: 364
+Iteration 19, # Misclassified: 600
+Iteration 20, # Misclassified: 341
+
+Dual perceptron, RBF kernel, spiral data
+Iteration 1, # Misclassified: 1000
+Iteration 2, # Misclassified: 199
+Iteration 3, # Misclassified: 117
+Iteration 4, # Misclassified: 8
+Iteration 5, # Misclassified: 7
+Iteration 6, # Misclassified: 7
+Iteration 7, # Misclassified: 6
+Iteration 8, # Misclassified: 6
+Iteration 9, # Misclassified: 7
+Iteration 10, # Misclassified: 7
+Iteration 11, # Misclassified: 7
+Iteration 12, # Misclassified: 7
+Iteration 13, # Misclassified: 7
+Iteration 14, # Misclassified: 7
+Iteration 15, # Misclassified: 7
+Iteration 16, # Misclassified: 7
+Iteration 17, # Misclassified: 7
+Iteration 18, # Misclassified: 7
+Iteration 19, # Misclassified: 7
+Iteration 20, # Misclassified: 8
+Iteration 21, # Misclassified: 8
+Iteration 22, # Misclassified: 8
+Iteration 23, # Misclassified: 8
+Iteration 24, # Misclassified: 8
+Iteration 25, # Misclassified: 9
+Iteration 26, # Misclassified: 9
+Iteration 27, # Misclassified: 9
+Iteration 28, # Misclassified: 10
+Iteration 29, # Misclassified: 10
+Iteration 30, # Misclassified: 11
+Iteration 31, # Misclassified: 11
+Iteration 32, # Misclassified: 11
+Iteration 33, # Misclassified: 11
+Iteration 34, # Misclassified: 11
+Iteration 35, # Misclassified: 11
+Iteration 36, # Misclassified: 11
+Iteration 37, # Misclassified: 11
+Iteration 38, # Misclassified: 11
+Iteration 39, # Misclassified: 11
+Iteration 40, # Misclassified: 12
+Iteration 41, # Misclassified: 13
+Iteration 42, # Misclassified: 13
+Iteration 43, # Misclassified: 13
+Iteration 44, # Misclassified: 13
+Iteration 45, # Misclassified: 14
+Iteration 46, # Misclassified: 14
+Iteration 47, # Misclassified: 14
+Iteration 48, # Misclassified: 14
+Iteration 49, # Misclassified: 14
+Iteration 50, # Misclassified: 13
+

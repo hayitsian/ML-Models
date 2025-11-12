@@ -1,0 +1,87 @@
+SKLearn SVM, linear kernel, spambase data...
+Accuracy: 0.908
+
+SKLearn SVM, polynomial kernel, spambase data...
+Accuracy: 0.752
+
+SKLearn SVM, RBF kernel, spambase data...
+Accuracy: 0.913
+
+my SVM, SMO linear kernel, spambase data...
+Pass: 1 complete.
+Pass: 2 complete.
+Pass: 3 complete.
+Pass: 4 complete.
+Pass: 5 complete.
+Accuracy: 0.863
+
+
+MNIST HAAR Feature Extraction...
+
+Downloading train-images-idx3-ubyte.gz...
+Downloading t10k-images-idx3-ubyte.gz...
+Downloading train-labels-idx1-ubyte.gz...
+Downloading t10k-labels-idx1-ubyte.gz...
+Download complete.
+Save complete.
+(60000,)
+(10000,)
+(60000, 784)
+(10000, 784)
+(60000, 200)
+(10000, 200)
+SKLearn SVM, RBF kernel, MNist data...
+Accuracy: 0.971
+
+my SVM, SMO linear kernel, MNist data...
+(12000, 200)
+(12000,)
+Counter({1: 1348, 7: 1253, 3: 1226, 2: 1192, 9: 1190, 0: 1185, 6: 1184, 8: 1170, 4: 1168, 5: 1084})
+Training 0 vs. 1
+Training 0 vs. 2
+Training 0 vs. 3
+Training 0 vs. 4
+Training 0 vs. 5
+Training 0 vs. 6
+Training 0 vs. 7
+Training 0 vs. 8
+Training 0 vs. 9
+Training 1 vs. 2
+Training 1 vs. 3
+Training 1 vs. 4
+Training 1 vs. 5
+Training 1 vs. 6
+Training 1 vs. 7
+Training 1 vs. 8
+Training 1 vs. 9
+Training 2 vs. 3
+Training 2 vs. 4
+Training 2 vs. 5
+Training 2 vs. 6
+Training 2 vs. 7
+Training 2 vs. 8
+Training 2 vs. 9
+Training 3 vs. 4
+Training 3 vs. 5
+Training 3 vs. 6
+Training 3 vs. 7
+Training 3 vs. 8
+Training 3 vs. 9
+Training 4 vs. 5
+Training 4 vs. 6
+Training 4 vs. 7
+Training 4 vs. 8
+Training 4 vs. 9
+Training 5 vs. 6
+Training 5 vs. 7
+Training 5 vs. 8
+Training 5 vs. 9
+Training 6 vs. 7
+Training 6 vs. 8
+Training 6 vs. 9
+Training 7 vs. 8
+Training 7 vs. 9
+Training 8 vs. 9
+
+Accuracy: 0.753
+
